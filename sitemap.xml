@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.machine-training.com/</loc>
+    <lastmod>2025-06-09</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.machine-training.com/nosotros</loc>
+    <lastmod>2025-06-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.machine-training.com/plan-de-estudios</loc>
+    <lastmod>2025-06-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.machine-training.com/operador-de-maquinaria</loc>
+    <lastmod>2025-06-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.machine-training.com/contactenos</loc>
+    <lastmod>2025-06-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+</urlset>
